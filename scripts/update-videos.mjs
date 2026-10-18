@@ -29,7 +29,7 @@ async function main() {
 
   for (const ch of cfg.channels) {
     try {
-      const xml = await fetchText(`https://www.youtube.com/feeds/videos.xml?channel_id=${encodeURIComponent(ch.channelId)}`, { retries: 1, timeout: 20000 });
+      const xml = await fetchText(`https://www.youtube.com/feeds/videos.xml?channel_id=${encodeURIComponent(ch.channelId)}`, { retries: 4, timeout: 20000 });
       const { channelTitle, videos } = parseYouTubeFeed(xml);
       if (ch.expectTitle && !channelTitle.toLowerCase().includes(ch.expectTitle.toLowerCase())) {
         warn(`${ch.source}:频道名「${channelTitle}」与预期「${ch.expectTitle}」不符,已跳过(请核对 channelId)`);
