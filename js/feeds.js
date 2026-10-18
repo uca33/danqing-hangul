@@ -118,5 +118,39 @@ export async function initFeeds() {
   const nl = $('#news-list');
   const vl = $('#video-list');
   nl.replaceChildren(...news.slice(0, 30).map(newsNode));
-  vl.replaceChildren(...videos.slice(0, 24).map(videoNode));
+  vl.replaceChildren(...(videos.length ? videos.slice(0, 24).map(videoNode) : CHANNELS.map(channelNode)));
+}
+
+// YouTube 已不再提供可抓取的频道 RSS,因此没有 videos.json 数据时,直接嵌入官方频道的「最新上传」播放列表
+const CHANNELS = [
+  { source: 'KBS 뉴스', id: 'UCcQTRi69dsVYHN3exePtZ1A' },
+  { source: 'MBC 뉴스', id: 'UCF4Wxdo3inmxP-Y59wXDsFw' },
+  { source: 'YTN', id: 'UChlgI3UHCOnwUGzWzbJ3H5w' },
+  { source: '연합뉴스TV', id: 'UCTHCOPwqNfZ0uiKOvFyhGwg' },
+];
+
+function channelNode(c) {
+  const box = el('article', 'vid');
+  const t = el('button', 'thumb');
+  t.type = 'button';
+  t.setAttribute('aria-label', '播放 ' + c.source + ' 最新视频');
+  t.append(el('span', 'mono', '▶ ' + c.source + ' · 最新上传'));
+  t.addEventListener('click', () => {
+    const f = el('iframe');
+    f.src = 'https://www.youtube-nocookie.com/embed/videoseries?list=UU' + c.id.slice(2) + '&rel=0';
+    f.title = c.source + ' 最新上传';
+    f.allow = 'autoplay; encrypted-media; picture-in-picture; fullscreen';
+    f.allowFullscreen = true;
+    f.referrerPolicy = 'strict-origin-when-cross-origin';
+    t.replaceWith(f);
+  });
+  box.append(t);
+  const cap = el('div', 'cap');
+  const meta = el('div', 'meta mono');
+  meta.append(el('span', null, c.source), el('span', null, '官方频道'));
+  const h = el('h3', null, c.source + ' 官方频道最新视频');
+  h.lang = 'ko';
+  cap.append(meta, h);
+  box.append(cap);
+  return box;
 }
