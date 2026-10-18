@@ -1,0 +1,26 @@
+name: probe
+on:
+  workflow_dispatch:
+jobs:
+  p:
+    runs-on: ubuntu-latest
+    steps:
+      - name: probe feeds
+        run: |
+          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36"
+          for u in \
+            https://www.yna.co.kr/rss/news.xml https://www.yna.co.kr/rss/headline.xml https://www.yna.co.kr/rss/society.xml \
+            https://rss.joins.com/joins_news_list.xml https://rss.joins.com/joins_homenews_list.xml https://www.joongang.co.kr/rss \
+            https://world.kbs.co.kr/rss/rss_news.htm?lang=k https://news.kbs.co.kr/rss/rss.xml https://news.kbs.co.kr/rss/newsrss.xml \
+            https://imnews.imbc.com/rss/news/news_00.xml https://imnews.imbc.com/rss/news/news_01.xml https://imnews.imbc.com/rss/news/news_00.xml?x=1 \
+            https://rss.donga.com/total.xml https://www.khan.co.kr/rss/rssdata/total_news.xml https://www.hani.co.kr/rss/ \
+            https://www.ytn.co.kr/_comm/rss/ytn_rss.xml https://www.yonhapnewstv.co.kr/browse/feed/ https://www.sbs.co.kr/rss.html https://news.sbs.co.kr/news/newsflashRssFeed.do?plink=RSSREADER ; do
+            code=$(curl -s -L -A "$UA" -m 20 -o /tmp/o.txt -w "%{http_code}" "$u"); items=$(grep -o "<item" /tmp/o.txt | wc -l); entries=$(grep -o "<entry" /tmp/o.txt | wc -l)
+            echo "$code items=$items entries=$entries $u" | tee -a $GITHUB_STEP_SUMMARY
+          done
+          for h in KBSNews MBCNEWS11 MBCNEWS ytnnews24 YTNnews yonhapnewstv YonhapnewsTV SBSNews; do
+            html=$(curl -s -L -A "$UA" -H "Accept-Language: ko-KR" -m 20 "https://www.youtube.com/@$h")
+            id=$(echo "$html" | grep -o '"channelId":"UC[A-Za-z0-9_-]*"' | head -1)
+            title=$(echo "$html" | grep -o '<title>[^<]*' | head -1)
+            echo "@$h $id $title" | tee -a $GITHUB_STEP_SUMMARY
+          done
