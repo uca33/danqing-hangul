@@ -1,0 +1,24 @@
+{
+  "newsPerDay": 8,
+  "maxAgeDays": 3,
+  "keepDays": 30,
+  "keepMax": 60,
+  "news": [
+    { "id": "yna", "source": "연합뉴스", "url": "https://www.yna.co.kr/RSS/news.xml", "perFeed": 2 },
+    { "id": "chosun", "source": "조선일보", "url": "https://www.chosun.com/arc/outboundfeeds/rss/?outputType=xml", "perFeed": 2 },
+    { "id": "joongang", "source": "중앙일보", "url": "https://rss.joins.com/joins_news_list.xml", "perFeed": 2 },
+    { "id": "mk", "source": "매일경제", "url": "https://www.mk.co.kr/rss/30000001/", "perFeed": 2 },
+    { "id": "kbs", "source": "KBS 뉴스", "url": "https://news.kbs.co.kr/rss/rss.xml", "perFeed": 1 },
+    { "id": "mbc", "source": "MBC 뉴스", "url": "https://imnews.imbc.com/rss/news/news_00.xml", "perFeed": 1 }
+  ],
+  "videos": {
+    "keepDays": 30,
+    "keepMax": 36,
+    "channels": [
+      { "id": "kbs", "source": "KBS 뉴스", "channelId": "UCcQTRi69dsVYHN3exePtZ1A", "expectTitle": "KBS", "perChannel": 2 },
+      { "id": "mbc", "source": "MBC 뉴스", "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw", "expectTitle": "MBC", "perChannel": 2 },
+      { "id": "ytn", "source": "YTN", "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w", "expectTitle": "YTN", "perChannel": 2 },
+      { "id": "yna", "source": "연합뉴스TV", "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg", "expectTitle": "연합뉴스", "perChannel": 2 }
+    ]
+  }
+}

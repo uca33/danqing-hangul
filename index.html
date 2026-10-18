@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>丹青韩语 · 단청 한국어</title>
+<link rel="icon" type="image/png" href="assets/icon/favicon.png">
+<link rel="apple-touch-icon" href="assets/icon/apple-touch-icon.png">
+<meta name="description" content="用水墨与卡片学韩语:流行语、生活词汇、任意韩语查词与语法分析、每日新闻与视频精读。《明日方舟:终末地》同人创作。">
+<meta name="theme-color" content="#f3f1ea">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Noto+Sans+KR:wght@400;500;700&family=Noto+Serif+KR:wght@600;900&family=Noto+Serif+SC:wght@600;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/features.css">
+</head>
+<body>
+
+<a class="skip" href="#cards">跳到内容</a>
+
+<header class="hud" id="top">
+  <a class="brand" href="#hero" aria-label="丹青韩语 首页">
+    <span class="seal" aria-hidden="true">渡</span>
+    <span class="brand-name">丹青韩语</span>
+    <span class="brand-sub mono">DANCHEONG · KR</span>
+  </a>
+  <nav class="nav" aria-label="主导航">
+    <a href="#cards" data-nav="cards"><b>01</b>卡片</a>
+    <a href="#lookup" data-nav="lookup"><b>02</b>查词</a>
+    <a href="#news" data-nav="news"><b>03</b>新闻</a>
+    <a href="#video" data-nav="video"><b>04</b>视频</a>
+    <a href="#papers" data-nav="papers"><b>05</b>论文</a>
+  </nav>
+  <span class="tag-fan mono">同人 · FANWORK</span>
+</header>
+
+<!-- 整页水墨背景(装饰性,位于全部内容之后) -->
+<canvas id="stage3d" aria-hidden="true"></canvas>
+
+<main>
+<!-- ───────── HERO ───────── -->
+<section class="hero" id="hero" aria-labelledby="hero-title">
+  <!-- 立绘锚点:3D 场景据此定位主角;WebGL 不可用时由 CSS 直接叠印立绘 -->
+  <div class="art-anchor art-hero" data-art="1" aria-hidden="true"></div>
+
+  <div class="hero-copy">
+    <p class="eyebrow mono"><i></i>ARKNIGHTS: ENDFIELD · 丹青渡 同人创作</p>
+    <h1 id="hero-title"><span class="t-ink">丹青</span><span class="t-blue">韩语</span></h1>
+    <p class="ko-sub" lang="ko">단청, 한국어를 그리다</p>
+    <p class="lede">把韩语写进一幅画卷。每天抽一张流行语或生活词汇卡,输入任何韩语查释义和用法,再从新闻和视频里精读真实的韩语。</p>
+    <div class="cta">
+      <a class="btn btn-primary" href="#cards">抽一张卡 <span aria-hidden="true">▸</span></a>
+      <a class="btn" href="#lookup">查个词</a>
+    </div>
+    <p class="coord mono" aria-hidden="true">37°33′N 126°58′E · SEOUL</p>
+  </div>
+  <a class="scroll-hint mono" href="#cards" aria-label="向下滚动">SCROLL ↓</a>
+</section>
+
+<!-- ───────── 01 CARDS ───────── -->
+<section class="sec" id="cards" aria-labelledby="cards-h">
+  <header class="sec-head">
+    <span class="idx mono">01</span>
+    <div>
+      <h2 id="cards-h">每日一卡 <small lang="ko">오늘의 카드</small></h2>
+      <p>流行语和日常生活词汇,随机抽取。点卡片翻面,看词源、用法和例句。</p>
+    </div>
+  </header>
+
+  <div class="deck">
+    <div class="deck-side">
+      <div class="tabs" role="tablist" aria-label="卡组">
+        <button role="tab" id="tab-trending" aria-selected="true" aria-controls="stage" data-deck="trending">流行 <small lang="ko">트렌드</small></button>
+        <button role="tab" id="tab-daily" aria-selected="false" aria-controls="stage" data-deck="daily">日常 <small lang="ko">생활</small></button>
+      </div>
+      <p class="deck-note">当前卡组 <b id="deck-count">–</b> 张。词库由人工整理并持续补充,条目以收录时的用法为准。</p>
+      <div class="deck-actions">
+        <button class="btn btn-primary" id="btn-draw" type="button">抽一张 <span aria-hidden="true">▸</span></button>
+        <button class="btn" id="btn-flip" type="button">翻面</button>
+        <button class="btn" id="btn-speak" type="button" aria-label="朗读韩语">朗读 ♪</button>
+      </div>
+      <div class="history" aria-label="最近抽到">
+        <p class="mono">最近抽到</p>
+        <ul id="history"></ul>
+      </div>
+    </div>
+
+    <div class="stage" id="stage" role="tabpanel" aria-live="polite">
+      <div class="card-tilt" id="tilt">
+        <div class="card" id="card">
+          <div class="face front" id="face-front"></div>
+          <div class="face back" id="face-back"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <details class="all" id="all">
+    <summary>查看当前卡组全部卡片</summary>
+    <div class="chips" id="chips" role="group" aria-label="按主题筛选"></div>
+    <ul class="grid" id="grid"></ul>
+  </details>
+</section>
+
+<!-- ───────── 02 LOOKUP ───────── -->
+<section class="sec" id="lookup" aria-labelledby="lookup-h">
+  <i class="art-anchor art-side" data-art="2" data-side="l" aria-hidden="true"></i>
+  <header class="sec-head">
+    <span class="idx mono">02</span>
+    <div>
+      <h2 id="lookup-h">韩语查词 <small lang="ko">무엇이든 물어보세요</small></h2>
+      <p>输入任何韩语:单词、语法、句子,或一整段文字。站内词库即时匹配;接入 AI 后可做完整的词汇、语法拆解。</p>
+    </div>
+  </header>
+
+  <form class="lookup" id="lookup-form" autocomplete="off">
+    <label for="q" class="mono">INPUT / 韩语原文</label>
+    <textarea id="q" rows="4" maxlength="2000" lang="ko" placeholder="例:갓생 살기로 했어 / -(으)ㄹ 수밖에 없다 / 점메추 좀 해 줘"></textarea>
+    <div class="lookup-actions">
+      <button class="btn" type="submit" id="btn-local">查站内词库</button>
+      <button class="btn btn-primary" type="button" id="btn-ai">AI 分析 <span aria-hidden="true">▸</span></button>
+      <span class="mono count"><span id="q-count">0</span> / 2000</span>
+    </div>
+
+    <details class="settings" id="settings">
+      <summary>AI 分析设置 <small>(自带密钥 · 本站不收费)</small></summary>
+      <div class="settings-grid">
+        <label>服务
+          <select id="provider">
+            <option value="gemini">Google Gemini(有免费额度)</option>
+            <option value="anthropic">Anthropic Claude</option>
+          </select>
+        </label>
+        <label>模型名称
+          <input id="model" type="text" spellcheck="false">
+        </label>
+        <label class="span2">API Key
+          <input id="key" type="password" spellcheck="false" autocomplete="off" placeholder="粘贴你自己的 Key">
+        </label>
+        <label class="check span2"><input id="remember" type="checkbox"> 在本机浏览器记住(不勾选则关闭页面后清除)</label>
+      </div>
+      <p class="hint">Key 只保存在你的浏览器里,请求会直接发往所选服务商,不经过本站服务器。请使用你自己的 Key,不要在公共电脑上勾选“记住”。
+        <a href="https://aistudio.google.com/apikey" target="_blank" rel="noopener noreferrer">获取 Gemini Key</a></p>
+      <button class="btn btn-small" type="button" id="btn-clear-key">清除已保存的 Key</button>
+    </details>
+  </form>
+
+  <div class="result" id="result" aria-live="polite"></div>
+</section>
+
+<!-- ───────── 03 NEWS ───────── -->
+<section class="sec" id="news" aria-labelledby="news-h">
+  <i class="art-anchor art-side" data-art="3" data-side="r" aria-hidden="true"></i>
+  <header class="sec-head">
+    <span class="idx mono">03</span>
+    <div>
+      <h2 id="news-h">每日新闻精读 <small lang="ko">오늘의 뉴스</small></h2>
+      <p>来自韩国主流媒体的当日报道:标题、出处链接与摘要,展开后可看词汇、语法和表达解析。</p>
+    </div>
+  </header>
+  <div class="feed" id="news-list" data-empty="新闻板块筹备中。接入每日更新后,这里每天会出现新的文章与解析。"></div>
+</section>
+
+<!-- ───────── 04 VIDEO ───────── -->
+<section class="sec" id="video" aria-labelledby="video-h">
+  <header class="sec-head">
+    <span class="idx mono">04</span>
+    <div>
+      <h2 id="video-h">视频新闻 <small lang="ko">영상 뉴스</small></h2>
+      <p>来自 KBS、MBC、YTN、연합뉴스 等官方频道的视频,点击后在本页内嵌播放。</p>
+    </div>
+  </header>
+  <div class="feed feed-video" id="video-list" data-empty="视频板块筹备中。接入每日更新后,这里会出现当天的新闻视频。"></div>
+</section>
+
+<!-- ───────── 05 PAPERS ───────── -->
+<section class="sec" id="papers" aria-labelledby="papers-h">
+  <i class="art-anchor art-side" data-art="4" data-side="l" aria-hidden="true"></i>
+  <header class="sec-head">
+    <span class="idx mono">05</span>
+    <div>
+      <h2 id="papers-h">论文精读 <small lang="ko">오늘의 논문</small></h2>
+      <p>每天从 KCI、RISS 中挑出可免费公开下载的国语学、国文学及相关融合领域论文,附中文摘要、研究方法与术语解析。</p>
+    </div>
+  </header>
+  <div class="chips" id="paper-chips" role="group" aria-label="按领域筛选" hidden></div>
+  <div class="feed papers" id="paper-list" data-empty="论文板块筹备中。接入每日更新后,这里每天会出现新的论文与解析。"></div>
+  <p class="paper-note" id="paper-note" hidden>摘要与术语解析由 AI 依据作者摘要生成,未阅读全文,仅供入门参考,请以原文为准。题录与全文链接来自 KCI、RISS,版权归原作者与刊物所有。</p>
+</section>
+</main>
+
+<footer class="foot">
+  <div class="foot-inner">
+    <p class="mono">丹青韩语 · DANCHEONG KR</p>
+    <p>本站为《明日方舟:终末地》「丹青渡」主题同人创作,非官方作品。游戏相关美术、角色与商标的权利归其权利人所有;本站不对其主张任何权利。</p>
+    <p>新闻与视频版权归原媒体所有,本站仅展示标题、摘要与链接,并附学习用的原创解析。论文题录与全文链接来自 KCI、RISS,版权归原作者与刊物所有,摘要解析为 AI 依据作者摘要生成。</p>
+  </div>
+</footer>
+
+<noscript><p class="noscript">本站需要启用 JavaScript。</p></noscript>
+<script type="module" src="js/main.js"></script>
+</body>
+</html>

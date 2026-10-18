@@ -1,0 +1,31 @@
+/* 论文 / 新闻 / 视频 板块的补充样式(与 style.css 分开,便于各自维护) */
+
+/* 论文 */
+.papers{gap:16px}
+.papers .day{margin:18px 0 0;padding-bottom:6px;border-bottom:1px solid var(--line-strong);color:var(--ink-2);font-size:12px}
+.papers .day:first-child{margin-top:0}
+.paper{background:var(--paper-3);border:1px solid var(--line-strong);border-left:4px solid var(--indigo);padding:18px 20px}
+.p-meta{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:8px}
+.badge{font-family:var(--mono);font-size:11px;letter-spacing:.06em;padding:2px 9px;border:1px solid var(--line-strong);background:rgba(255,255,255,.55);color:var(--ink-2)}
+.badge.src{background:var(--ink);border-color:var(--ink);color:var(--paper)}
+.badge.oa{background:var(--signal);border-color:var(--ink);color:var(--ink)}
+.paper h3{margin:0;font-family:var(--serif);font-weight:900;font-size:clamp(18px,2.6vw,22px);line-height:1.45;word-break:keep-all;overflow-wrap:anywhere}
+.paper h3 a{text-decoration:none}
+.paper h3 a:hover{text-decoration:underline}
+.p-by{margin:6px 0 0;font-size:14px;color:var(--muted)}
+.p-sum{margin:12px 0 0;color:var(--ink-2)}
+.p-sum.muted{color:var(--muted)}
+.paper details{margin-top:12px;border-top:1px solid var(--line);padding-top:8px}
+.paper summary{cursor:pointer;font-weight:500;min-height:40px;display:flex;align-items:center}
+.p-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px;margin-top:8px}
+.pb h4{margin:0 0 4px;font-family:var(--mono);font-size:11px;letter-spacing:.1em;color:var(--cinnabar);text-transform:uppercase}
+.pb p{margin:0;font-size:15px}
+.pb ul{margin:0;padding-left:18px;font-size:15px}
+.pb .tk{font-family:var(--serif);font-weight:600}
+.p-cav,.p-basis{margin:10px 0 0;font-size:13.5px;color:var(--muted)}
+.p-act{margin:14px 0 0}
+.paper-note{margin:22px 0 0;font-size:13.5px;color:var(--muted);max-width:56em}
+
+/* 新闻解析里的补充 */
+.news-item .basis{margin:8px 0 0;font-size:13px;color:var(--muted)}
+.news-item .lv{font-family:var(--mono);font-size:11px;padding:1px 8px;border:1px solid var(--line-strong)}
