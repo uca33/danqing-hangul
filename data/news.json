@@ -1,6 +1,96 @@
 [
  {
   "source": "한겨레",
+  "title": "부시 가문 인사도 민주당 지지…텍사스 상원의원 선거에 영향",
+  "url": "https://www.hani.co.kr/arti/international/international_general/1283576.html",
+  "publishedAt": "2026-10-21T23:47:19.358Z",
+  "summary": "",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "SBS 뉴스",
+  "title": "'부캉이' 돌아왔다…구조물도 뚫고 수로 입구 '뱅뱅'",
+  "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008809420&plink=RSSLINK&cooper=RSSREADER",
+  "publishedAt": "2026-10-21T23:46:43.000Z",
+  "summary": "&#9650; 21일 부산 동구 북항 친수공원 인공수로에서 흑상어 '부캉이'를 바다로 돌려보내기 위해 진행됐던 3차 유도 작업부산…",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "연합뉴스",
+  "title": "지역관광하고 경품받고… 관광공사, '춘식이랑 가을여행' 이벤트",
+  "url": "https://www.yna.co.kr/view/AKR20261022028600030",
+  "publishedAt": "2026-10-21T23:44:48.000Z",
+  "summary": "(서울=연합뉴스) 이상서 기자 = 한국관광공사는 카카오[035720]와 함께 다음 달 22일까지 국민 참여 이벤트인 &apos;춘식이랑 가을여행 톡! 떠...",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "연합뉴스",
+  "title": "용산구, 불법 주정차 단속 완화…\"골목상권에 활력\"",
+  "url": "https://www.yna.co.kr/view/AKR20261022031800004",
+  "publishedAt": "2026-10-21T23:44:25.000Z",
+  "summary": "(서울=연합뉴스) 정준영 기자 = 서울 용산구(구청장 김경대)는 오는 26일부터 불법 주정차 단속 완화 정책을 확대한다고 22일 밝혔다.",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "매일경제",
+  "title": "링컨까지 소환한 베센트... 앤트로픽 상장, 다음달 확정인가",
+  "url": "https://www.mk.co.kr/news/business/12182433",
+  "publishedAt": "2026-10-21T23:43:00.000Z",
+  "summary": "불앤베어 플러스스콧 베센트 미국 재무장관이 갑자기 링컨 대통령을 소환했습니다. 스테이블 코인 활성화를 위한 정부 조치가 발표된 이후였습니다. 과연 무슨 의미였을까요. 영상에서 확인..",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "매일경제",
+  "title": "“전월 실적 따지지 않고 포인트 팍팍”…1년 만에 300만명 몰린 삼성월렛",
+  "url": "https://www.mk.co.kr/news/economy/12182432",
+  "publishedAt": "2026-10-21T23:42:50.000Z",
+  "summary": "출시 두 달 100만, 1년 만에 300만명 돌파 적립 한도 없고 쌓인 포인트 현금처럼 사용 해외 결제·등급별 추가 혜택으로 고객 잡기삼성전자의 간편결제 서비스 ‘삼성월렛 머니·포..",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "조선일보",
+  "title": "한화는 새 감독과 한창인데…롯데는 무엇 때문에 장고를 거듭할까, 설마 이번 주도 넘길까",
+  "url": "https://www.chosun.com/sports/baseball/2026/10/22/GBTDIMBRGA3DKNJUMZRWGMLDHA/",
+  "publishedAt": "2026-10-21T23:39:00.000Z",
+  "summary": "[OSEN=조형래 기자] 프로야구 롯데 자이언츠의 행보가 신중함을 넘어서 답답함의 임계치를 향해 가고 있다. 롯데는 지난 12일 정규시즌을 마쳤다. 김태형 감독의 3년 임기도 자연스럽게 마무리 되는 분위기였다. 박…",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "조선일보",
+  "title": "'지역, 인물, 미디어' 스포츠의 응답, 한국스포츠미디어학회 28일 심포지엄 개최",
+  "url": "https://www.chosun.com/sports/sports_general/2026/10/22/GM4TGZJUMY3TCMZZMM3TOMTCMU/",
+  "publishedAt": "2026-10-21T23:38:10.000Z",
+  "summary": "[스포츠조선 박상경 기자] 한국스포츠미디어학회(회장 유상건 상명대 교수)가 23일 안동국제컨벤션센터에서 추계 심포지엄을 개최한다. 이번 심포지엄에서는 빠르게 변화하는 미디어 환경 속에서 스포츠가 지역 사회와 함께 …",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "동아일보",
+  "title": "낮 최고 19도, 맑고 쌀쌀…내륙 대부분 한파특보",
+  "url": "https://www.donga.com/news/Society/article/all/20261022/134887074/1",
+  "publishedAt": "2026-10-21T23:35:18.000Z",
+  "summary": "목요일인 22일은 전국이 대체로 맑겠지만 낮 최고기온이 19도에 머물며 쌀쌀하겠다. 전국 내륙 대부분 지역에 한파특보가 발효된 가운데 아침 기온이 어제보다 10도가량 큰 폭으로 떨어지면서 경기북동부와 강원내륙·산지…",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "경향신문",
+  "title": "교황 레오 14세, 폐암 전이 없어···“추가 치료 불필요” 판정",
+  "url": "https://www.khan.co.kr/article/202610220829001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+  "publishedAt": "2026-10-21T23:29:00.000Z",
+  "summary": "지난 17일(현지시간) 교황 레오 14세가 우측 폐의 암 종양 제거 수술 후 나흘 만에 퇴원해 바티칸 시티에 도착하고 있다. EPA연합뉴스최근 폐암 수술을 받은 교황 레오 14세가 암 전이가 확인되지 않아 추가 치…",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "한겨레",
   "title": "트럼프 “중간선거 공화당 지원에 4억달러 이상 투입”",
   "url": "https://www.hani.co.kr/arti/international/international_general/1283371.html",
   "publishedAt": "2026-10-20T23:31:25.267Z",
