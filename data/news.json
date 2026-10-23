@@ -1,6 +1,96 @@
 [
  {
   "source": "한겨레",
+  "title": "내 사랑은 펼쳐지기만 해요, 도무지 접을 수 없어요 [.txt]",
+  "url": "https://www.hani.co.kr/arti/culture/book/1283938.html",
+  "publishedAt": "2026-10-23T23:38:08.275Z",
+  "summary": "",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "연합뉴스",
+  "title": "한전, 사채 한도 19조 초과 위기…전기요금 인상론 재점화",
+  "url": "https://www.yna.co.kr/view/AKR20261023178600003",
+  "publishedAt": "2026-10-23T23:31:01.000Z",
+  "summary": "(서울=연합뉴스) 신창용 기자 = 한국전력의 사채 발행 한도 특례가 예정대로 내년 말 종료되면 사채 발행 잔액이 법정 한도를 약 19조2천억 초...",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "연합뉴스",
+  "title": "인판티노 FIFA 회장 4선 '청신호'…AFC 지지로 돌아서",
+  "url": "https://www.yna.co.kr/view/AKR20261024016400007",
+  "publishedAt": "2026-10-23T23:30:28.000Z",
+  "summary": "(서울=연합뉴스) 안홍석 기자 = 잔니 인판티노 국제축구연맹(FIFA) 회장이 대립각을 세우던 아시아축구연맹(AFC)의 지지를 끌어내면서 4선 ...",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "동아일보",
+  "title": "‘오늘 이기면 우승’ FC서울, 3만 관중 앞에서 10년 만의 축포 쏠까",
+  "url": "https://www.donga.com/news/Sports/article/all/20261024/134900295/1",
+  "publishedAt": "2026-10-23T23:29:46.000Z",
+  "summary": "“오늘 이기면 우승.”프로축구 K리그1 FC서울이 안방에서 10년 만의 우승 축포를 터뜨릴 수 있을까. 예매와 현장 판매를 고려해 3만 관중이 모일 것으로 예상되는 가운데 서울이 승리하면 자력으로 우승을 확정한다.…",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "매일경제",
+  "title": "“숙박비 아껴 마음껏 쇼핑”…한국 여행 ‘0박 2일’에 빠진 日 2030 [르포]",
+  "url": "https://www.mk.co.kr/news/culture/12184731",
+  "publishedAt": "2026-10-23T23:23:40.000Z",
+  "summary": "새벽 카페부터 K패션·피부미용까지 24시간 서울을 누비는 초밀착 여행 BC카드 결제, 日 관광객 증가세 뚜렷금요일 퇴근 뒤 밤비행기에 몸을 싣는다. 자정이 넘어 인천공항에 도착하면..",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "매일경제",
+  "title": "광주서 김치 먹고 나주서 곰탕 후루룩…남도 가을 맛기행 떠나볼까",
+  "url": "https://www.mk.co.kr/news/society/12184730",
+  "publishedAt": "2026-10-23T23:22:39.000Z",
+  "summary": "광주김치·남도음식축제 개막 25일까지 광주청사·영산강정원 김치명인 체험·27개 지역 음식 안유성·정관 스님 요리도 선봬광주에서는 김치 요리를 맛보고 나주에서는 남도 각 지역의 음식..",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "조선일보",
+  "title": "職業系高校出身イ・ミジュ、教師の父は成績表見て芸能界入り容認",
+  "url": "https://www.chosun.com/jp/culture-life-jp/2026/10/24/QU6CDD5OXZE6TLJRPUBYXPYZGI/",
+  "publishedAt": "2026-10-23T23:22:00.000Z",
+  "summary": "［OSEN＝チェ・イジョン記者］「職業系高校出身」のタレント、イ・ミジュが、教師である父の断固たる反対を乗り越えて芸能界デビューを果たした、堂々として生々しい舞台裏を公開する。25日（日）午前10時55分に放送されるSBS『成功方程式を書…",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "조선일보",
+  "title": "‘직업계고 출신’ 이미주, 아버지는 교사..\"성적표 보고 연예인 반대 NO\" ('영크크')",
+  "url": "https://www.chosun.com/entertainments/broadcast/2026/10/24/MQ2TCZJYG5SWEZJRMYYDSMJUMU/",
+  "publishedAt": "2026-10-23T23:22:00.000Z",
+  "summary": "[OSEN=최이정 기자] ‘직업계고 출신’ 방송인 이미주가 교사 아버지의 단호한 반대를 극복하고 연예계에 데뷔하게 된 당차고 생생한 비하인드를 공개한다.오는 25일(일) 오전 10시 55분 방송되는 SBS '다시 …",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "경향신문",
+  "title": "[반도 앨리스] 북한 조선중앙통신의 오보, 요즘 바빠서?…김여정 군사분계선 시찰 날짜 틀린 듯",
+  "url": "https://www.khan.co.kr/article/202610240801001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+  "publishedAt": "2026-10-23T23:01:00.000Z",
+  "summary": "박정천 북한 국방성 고문이 지난 21일 남부국경 요새화 공사 현장의 주요 지점들을 리일환 노동당 비서와 김여정 당 부장, 인민군 총참모부 주요 지휘관들과 함께 시찰했다. 조선중앙통신·연합뉴스오보는 전 세계 기자들이…",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "SBS 뉴스",
+  "title": "제주 산간 최대 250mm 폭우…비 그치면 기온 '뚝'",
+  "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812733&plink=RSSLINK&cooper=RSSREADER",
+  "publishedAt": "2026-10-23T22:59:00.000Z",
+  "summary": "이번 주말 태풍 참피의 영향으로 제주와 남부 지방에 강한 비가 예보됐습니다. 강한 바람과 높은 파도도 예상되는 만큼 해안가 안전사고에 유의하셔야…",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "한겨레",
   "title": "경찰, 강서구 ‘친모 살해’ 40대 여성 구속영장 신청",
   "url": "https://www.hani.co.kr/arti/society/society_general/1283782.html",
   "publishedAt": "2026-10-22T23:45:09.480Z",
@@ -446,96 +536,6 @@
   "url": "https://www.mk.co.kr/news/realestate/12179158",
   "publishedAt": "2026-10-18T22:23:21.000Z",
   "summary": "[사진]◇왕십리역 공유숙박·단기임대용 건물 14억원 ‘성동구 더블·환승역세권의 대지 53㎡, 연면적 95㎡인 지하 1층, 지상 2층 건물’ ◇은평구 중심상권 8.2%대 대형 치과 ..",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "한겨레",
-  "title": "바르셀로나, 라리가 개막 최다 연승 타이 9연승",
-  "url": "https://www.hani.co.kr/arti/sports/soccer/1282878.html",
-  "publishedAt": "2026-10-18T02:40:03.916Z",
-  "summary": "",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "매일경제",
-  "title": "김민석 ‘축제 과잉의전’ 논란…與 잇단 돌발 악재에 촉각",
-  "url": "https://www.mk.co.kr/news/politics/12178710",
-  "publishedAt": "2026-10-18T02:38:49.000Z",
-  "summary": "김민석 ‘축제 과잉의전’ 논란 15일 축제서 가수 무대 끊고 인사말 野 “시민 문화향유권 침해” ‘새벽 소방서’ 사진도 재조명 추미애 설화 겹쳐 여권 부담 가중 與 잇단에 돌발 악..",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "매일경제",
-  "title": "정점식 “김민석, 조희대 탄핵 결론내라…모든 수단 동원해 저지”",
-  "url": "https://www.mk.co.kr/news/politics/12178709",
-  "publishedAt": "2026-10-18T02:38:07.000Z",
-  "summary": "“탄핵국감 만들어 혼란 장기화” “사실상 탄핵 발의와 다름없어” 전작권엔 “시기 아닌 능력 기준 美와 협의해 일정 재검토해야”정점식 국민의힘 원내대표가 18일 조희대 대법원장 탄핵..",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "경향신문",
-  "title": "서울 시장 맛집·명물 청계광장 총출동···24~25일 ‘서울마켓페어’ 개최",
-  "url": "https://www.khan.co.kr/article/202610181138001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-  "publishedAt": "2026-10-18T02:38:00.000Z",
-  "summary": "오전에는 전통시장···오후 5시부터는 ‘야장’ 운영2026 서울마켓페어 포스터. 서울시 제공.청계광장 일대에서 서울 곳곳의 시장 먹거리와 특색 있는 상품을 만나고 공연까지 즐길 수 있는 축제가 열린다.서울시는 오는…",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "SBS 뉴스",
-  "title": "[자막뉴스] \"100일 만에 182조 원 날렸다\" 삼전닉스 폭락에 국민연금 직격탄…7분기 만에 '마이너스'",
-  "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802748&plink=RSSLINK&cooper=RSSREADER",
-  "publishedAt": "2026-10-18T02:33:48.000Z",
-  "summary": "국내 증시가 급락하면서 국민연금의 국내 주식 평가액도 약 100일 만에 182조 원 이상 손실을 본 것으로 나타났습니다.금융정보업체 에프앤가이드…",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "연합뉴스",
-  "title": "쓰레기 줍고 수거정보 기록…구로구, '데이터플로깅' 시범운영",
-  "url": "https://www.yna.co.kr/view/AKR20261018022400004",
-  "publishedAt": "2026-10-18T02:32:33.000Z",
-  "summary": "(서울=연합뉴스) 김동규 기자 = 서울 구로구(구청장 장인홍)는 걸으며 쓰레기를 줍는 &apos;플로깅&apos;에 디지털 기록을 결합한 새로운 방식의 환경정화 ...",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "동아일보",
-  "title": "전국체전 선수단 숙소 발코니서 불…인명 피해 없어",
-  "url": "https://www.donga.com/news/Society/article/all/20261018/134859895/1",
-  "publishedAt": "2026-10-18T02:32:29.000Z",
-  "summary": "제107회 전국체육대회 선수단 숙소에 불이 났지만 다친 사람은 없었다.18일 제주특별자치도 소방안전본부에 따르면 전날 오후 3시 38분쯤 전국체전 선수단 숙소인 제주시 애월읍의 한 리조트 발코니에 불이 났다. 불은…",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "조선일보",
-  "title": "소프트뱅크-DeNA, 2년 만에 일본시리즈서 다시 만났다",
-  "url": "https://www.chosun.com/sports/world-baseball/2026/10/18/ALKZ4AHNYNA2RNLWZX35ZK2KYI/",
-  "publishedAt": "2026-10-18T02:30:34.000Z",
-  "summary": "",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "조선일보",
-  "title": "ソフトバンクとDeNA、2年ぶり再戦",
-  "url": "https://www.chosun.com/jp/sports-jp/2026/10/18/OFCLGSMCL5EVDDKT5GCFOL5EUI/",
-  "publishedAt": "2026-10-18T02:30:34.000Z",
-  "summary": "",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "연합뉴스",
-  "title": "野, 추미애 '사과 바라니 사과한다' 발언에 \"사퇴 바란다\" 맹공",
-  "url": "https://www.yna.co.kr/view/AKR20261018021800001",
-  "publishedAt": "2026-10-18T02:29:25.000Z",
-  "summary": "(서울=연합뉴스) 권희원 기자 = 야권은 18일 추미애 경기도지사가 전날 부천 공장 화재로 순직한 고(故) 김진석 소방위 빈소 조문 후 &apos;사과를...",
   "summaryLang": "ko",
   "analysis": null
  }
