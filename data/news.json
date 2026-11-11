@@ -1,6 +1,96 @@
 [
  {
   "source": "한겨레",
+  "title": "영월 시멘트 공장서 쇠 파이프 떨어져…60대 작업자 사망",
+  "url": "https://www.hani.co.kr/arti/area/gangwon/1286743.html",
+  "publishedAt": "2026-11-11T00:56:54.238Z",
+  "summary": "",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "매일경제",
+  "title": "에브리봇, 실버타운 서비스로봇 도입하나…현장서 가능성 점검",
+  "url": "https://www.mk.co.kr/news/stock/12205090",
+  "publishedAt": "2026-11-11T00:56:10.000Z",
+  "summary": "피지컬 인공지능(AI) 서비스로봇 전문기업 에브리봇은 롯데건설의 서울 마곡지구 프리미엄 시니어 레지던스 VL르웨스트에서 2차 로봇 현장 실증(PoC)을 진행하며 실제 시설 도입 가..",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "동아일보",
+  "title": "AMD, 에픽 베니스 CU 세부 정보 공개, ‘최대 5.3GHz·256코어로 경쟁력↑’",
+  "url": "https://www.donga.com/news/It/article/all/20261111/135004442/1",
+  "publishedAt": "2026-11-11T00:53:18.000Z",
+  "summary": "AMD는 현지시간으로 지난 11월 5일부터 6일 양일간 미국 네바다 주 라스베이거스에서 ‘AMD IN DEPTH’를 개최하고 AMD 젠6·젠6C 아키텍처의 세부적인 기술 정보와 이를 기반으로 하는 AMD 에픽(EP…",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "연합뉴스",
+  "title": "배민, 라이더 명의도용 방지 강화…두 차례 적발 시 계약해지",
+  "url": "https://www.yna.co.kr/view/AKR20261111051100030",
+  "publishedAt": "2026-11-11T00:52:04.000Z",
+  "summary": "(서울=연합뉴스) 한주홍 기자 = 배달의민족의 물류서비스를 담당하는 우아한청년들은 타인의 명의를 도용해 배달하는 행위를 근절하기 위한 단계별 조...",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "조선일보",
+  "title": "박신영 \"사고 후 차에 숨어있었다? 사실 아냐\"…루머·악플 법적 대응",
+  "url": "https://www.chosun.com/entertainments/2026/11/11/MGFMINJ5CFEF5KNN7OVSGVLUCM/",
+  "publishedAt": "2026-11-11T00:51:57.000Z",
+  "summary": "아나운서 출신 방송인 박신영이 과거 사망 교통사고 직후 구호 조치 없이 차 안에 숨어 있었다는 의혹을 부인하며 법적 대응을 예고했다.",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "연합뉴스",
+  "title": "[정읍소식] 시기동 주민이 시민장학재단에 장학금 5천만원 기탁",
+  "url": "https://www.yna.co.kr/view/AKR20261111051900055",
+  "publishedAt": "2026-11-11T00:51:43.000Z",
+  "summary": "(정읍=연합뉴스) 전북 정읍시는 시기동 주민 김완수 씨가 지역 학생들이 더 나은 환경에서 공부할 수 있도록 써달라며 정읍시민장학재단에 장학금 5...",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "매일경제",
+  "title": "㈜제이비컴 ‘폐업 소상공인 재취업 지원’ 교육생 모집",
+  "url": "https://www.mk.co.kr/news/society/12205087",
+  "publishedAt": "2026-11-11T00:51:18.000Z",
+  "summary": "폐업(예정) 소상공인 ‘희망리턴패키지’ 심화교육 운영, 재취업 역량 강화 요건 충족 시 수당 지원, 11월 말까지 서울·대전·청주서 진행㈜제이비컴(대표 정태식)이 중소벤처기업부와 ..",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "조선일보",
+  "title": "장도연, 허경환에 20년만에 고백 \"설렌 적 있다..내년 결혼 할 듯\" ('유행쇼')",
+  "url": "https://www.chosun.com/entertainments/broadcast/2026/11/11/GFTGIZRYGY3WCNBSG5QTEOBWGM/",
+  "publishedAt": "2026-11-11T00:49:00.000Z",
+  "summary": "[OSEN=최이정 기자] 개그계 대표 20년 절친 장도연과 허경환 사이에 심상치 않은 분홍빛 기류가 포착됐다. 장도연이 허경환을 향해 \"설렌 적이 있다\"라는 깜짝 고백을 터뜨린 것.11일 오후 6시 유튜브 채널 '…",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "경향신문",
+  "title": "[속보]서울 성북구서 10대 여성 살해한 50대 남성 긴급체포",
+  "url": "https://www.khan.co.kr/article/202611110949001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+  "publishedAt": "2026-11-11T00:49:00.000Z",
+  "summary": "경찰 로고. 경향신문DB10대 여성을 살해한 혐의를 받는 50대 남성이 경찰에 긴급 체포됐다.서울 성북경찰서는 11일 오전 1시40분쯤 50대 남성 A씨를 긴급 체포해 조사중이라고 밝혔다. A씨는 10대 여성을 살…",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "SBS 뉴스",
+  "title": "[정치쇼] 김성태 \"결기 안 느껴지는 국힘 장외투쟁, 의원직 총사퇴 걸고 막아라\"",
+  "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840278&plink=RSSLINK&cooper=RSSREADER",
+  "publishedAt": "2026-11-11T00:48:02.000Z",
+  "summary": "- 이용철, 공소 취소 아니면 법무부장관 임명 필요 없어- 이용철 &#34;법과 상식에 따라&#34; = &#34;공소취소 할 수 있다&#34;- 국힘, 더 가열찬 투쟁으로 국민적 울분*공분 조직할 타이밍- 조작기…",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "한겨레",
   "title": "공정위, 네이버·두나무 기업결합 심의 착수…18일 결론 나나",
   "url": "https://www.hani.co.kr/arti/economy/economy_general/1286583.html",
   "publishedAt": "2026-11-10T03:02:21.585Z",
@@ -446,96 +536,6 @@
   "url": "https://www.chosun.com/sports/baseball/2026/11/06/MYYWGYLFMQYTONZWMVTDIYZZGM/",
   "publishedAt": "2026-11-06T01:10:10.000Z",
   "summary": "[스포츠조선 김영록 기자] \"웨이트요? 여긴 국군체육부대(상무)입니다. 웨이트장 가면 괴물들로 가득해요.\" 유니폼을 찢을듯 했던 근육, 짧게나마 신인상에 거론될 정도의 임팩트, 팔꿈치 부상 이탈, 갑작스런 입대. …",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "한겨레",
-  "title": "관객과 속으로…‘국민 디바’ 인순이, 70석 재즈 무대 선다",
-  "url": "https://www.hani.co.kr/arti/culture/music/1285874.html",
-  "publishedAt": "2026-11-05T01:09:03.731Z",
-  "summary": "",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "매일경제",
-  "title": "[MK시그널] 에버포스 매도신호 포착, 수익률 68% 달성",
-  "url": "https://www.mk.co.kr/news/stock/12198082",
-  "publishedAt": "2026-11-05T01:07:33.000Z",
-  "summary": "안녕하세요. 미국 주식 핫 이슈 종목을 분석해드리는 AI 기자 ‘MK시그널’입니다. 4일, 에버포스(EFOR)가 MK시그널에서 매도 신호가 포착돼 수익률 68.06% 달성했습니다...",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "매일경제",
-  "title": "와디즈, 연중 최대 규모 ‘2026 블랙버드’서 최대 92% 할인",
-  "url": "https://www.mk.co.kr/news/it/12198079",
-  "publishedAt": "2026-11-05T01:04:02.000Z",
-  "summary": "30일까지 신제품·인기앵콜 등 포도호텔 숙박상품 단독 특가도와디즈가 오는 30일까지 연중 최대 규모 기획전 ‘2026 와디즈 블랙버드’를 진행한다고 5일 밝혔다. 블랙버드는 신제품..",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "연합뉴스",
-  "title": "카카오, 1천500억원 규모 자사주 매입…\"주주가치 제고\"",
-  "url": "https://www.yna.co.kr/view/AKR20261105060500017",
-  "publishedAt": "2026-11-05T01:03:37.000Z",
-  "summary": "(서울=연합뉴스) 오지은 기자 = 카카오[035720]가 주주가치 제고를 위해 1천500억원 규모의 자기주식을 매입해 소각하기로 결정했다.",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "조선일보",
-  "title": "3분기 세계 반도체 매출, 1년 전의 2.5배로 역대 최대",
-  "url": "https://www.chosun.com/economy/tech_it/2026/11/05/UCBESU332BHU7PBYN4B6VJIOSA/",
-  "publishedAt": "2026-11-05T01:03:05.000Z",
-  "summary": "전 세계적으로 인공지능(AI)발 메모리 호황이 지속되는 가운데, 올해 3분기 세계 반도체 매출이 작년 같은 기간의 2.5배가 됐다는 조사 결과가 나왔다. 메모리 반도체의 수요·가격 급등이 가장 큰 영향을 미친 것으…",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "연합뉴스",
-  "title": "'이태원 클라쓰' 태국판 나온다…'설공찬전'도 드라마 제작",
-  "url": "https://www.yna.co.kr/view/AKR20261105052800005",
-  "publishedAt": "2026-11-05T01:02:02.000Z",
-  "summary": "(서울=연합뉴스) 장진리 기자 = 웹툰 &apos;이태원 클라쓰&apos;와 &apos;설공찬전&apos;이 태국에서 드라마로 제작된다.",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "동아일보",
-  "title": "SKT, 부산불꽃축제 120만 인파 대비… 통신망 ‘체감품질’ 지표로 관리",
-  "url": "https://www.donga.com/news/It/article/all/20261105/134970079/1",
-  "publishedAt": "2026-11-05T01:01:34.000Z",
-  "summary": "SK텔레콤이 ‘제21회 부산불꽃축제’에서 안정적인 통신 품질을 위한 특별 소통 대책을 마련한다.SKT는 7일 부산 광안리해수욕장 일대에서 열리는 ‘제21회 부산불꽃축제’에 대규모 인파가 몰리는 것을 대비해 기존 A…",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "SBS 뉴스",
-  "title": "[SDF] \"통제 벗어난 AI…두 번째 기회는 없다\" (엘리에저 유드코스키)",
-  "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008831701&plink=RSSLINK&cooper=RSSREADER",
-  "publishedAt": "2026-11-05T01:00:52.000Z",
-  "summary": "올해 SBS D포럼의 주제는 '생각 주권'입니다.우리는 어디까지 AI에게 맡기고 무엇을 인간의 몫으로 남겨야 할까요?'대체…",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "조선일보",
-  "title": "現代製鉄、会社の歴史・記録を発掘保存する「H.ARCHIVE」開設",
-  "url": "https://www.chosun.com/jp/economy-jp/2026/11/05/Q6N2XYIESNHJVN3LPPUBH3OP3U/",
-  "publishedAt": "2026-11-05T00:58:46.000Z",
-  "summary": "現代製鉄は、構成員が会社の歴史と記録を共に発掘し、保存するプラットフォーム「H.ARCHIVE（エイチアーカイブ）」を開設したと5日発表した。現代製鉄の歴史と成果の記録を一つに集めるデジタル空間だ。現代製鉄は「産業の変化に対応してきた挑戦…",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "경향신문",
-  "title": "[속보]정부, 청해부대 작전범위 호르무즈 인근 확대···해상초계기 1대·기뢰제거 전력 파견",
-  "url": "https://www.khan.co.kr/article/202611050942021/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-  "publishedAt": "2026-11-05T00:42:02.000Z",
-  "summary": "지난 10월5월 부산 남구 부산작전기지에서 열린 청해부대 48진 왕건함 출항 환송식에서 왕건함이 출항하고 있다. 연합뉴스정부가 청해부대의 작전 범위를 기존 아덴만 해역에서 호르무즈 해협에 더 가까운 오만 남방 해상…",
   "summaryLang": "ko",
   "analysis": null
  }
