@@ -1,6 +1,96 @@
 [
  {
   "source": "한겨레",
+  "title": "김민석 “대화로 푸는 시도” 정청래 “피해자에 합의 강요, 또다른 2차 가해”",
+  "url": "https://www.hani.co.kr/arti/politics/assembly/1286951.html",
+  "publishedAt": "2026-11-12T02:03:18.717Z",
+  "summary": "",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "SBS 뉴스",
+  "title": "\"덜 거지 같은 거 골라!\"…망해가던 재래시장 살려낸 '반전 아이템' [취재파일]",
+  "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842288&plink=RSSLINK&cooper=RSSREADER",
+  "publishedAt": "2026-11-12T02:02:35.000Z",
+  "summary": "지난 5일과 6일, 이틀에 걸쳐 서울 남대문시장에 다녀왔습니다. 보통 재래시장 하면 '요즘 장사 안된다' 이런 이야기부터 떠올리실 텐데요.",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "매일경제",
+  "title": "[속보] 이 대통령 지지율 44%…민주 35%·국힘 25% [NBS]",
+  "url": "https://www.mk.co.kr/news/politics/12206177",
+  "publishedAt": "2026-11-12T02:02:30.000Z",
+  "summary": "",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "매일경제",
+  "title": "젠슨 황 이전엔 빌 게이츠·베이조스…IT 거물들의 불륜 흑역사",
+  "url": "https://www.mk.co.kr/news/world/12206176",
+  "publishedAt": "2026-11-12T02:02:18.000Z",
+  "summary": "젠슨 황 중국 스파이 의혹 여성과 불륜에 이어 사내 불륜 의혹까지 제기되며 해임 논의 급물살 게이츠도 외도 끝에 2021년 이혼하며 구설수 베이조스는 이혼으로 40조원어치 주식 ..",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "연합뉴스",
+  "title": "금리 상승에…11월 서울·경기 주택사업자 경기 전망 큰폭 하락",
+  "url": "https://www.yna.co.kr/view/AKR20261112031500003",
+  "publishedAt": "2026-11-12T02:00:02.000Z",
+  "summary": "(서울=연합뉴스) 임기창 기자 = 금리 상승에 따른 주택 구입 부담 증가와 서울 아파트값 상승세 둔화 영향으로 주택사업자들의 주택사업 경기 전망...",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "연합뉴스",
+  "title": "제1회 대한민국 조경박람회 13일 과천서 개막",
+  "url": "https://www.yna.co.kr/view/AKR20261112062100003",
+  "publishedAt": "2026-11-12T02:00:02.000Z",
+  "summary": "(세종=연합뉴스) 오진송 기자 = 제1회 대한민국 조경박람회가 오는 13∼14일 경기 과천시 시민광장과 과천시민회관에서 열린다.",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "동아일보",
+  "title": "장애 있는 6살 조카 버린 후 18년 뒤 실종 신고한 고모…징역 3년 구형",
+  "url": "https://www.donga.com/news/Society/article/all/20261112/135012598/1",
+  "publishedAt": "2026-11-12T01:59:33.000Z",
+  "summary": "18년 전 중증 지적장애가 있는 6세 조카를 유기한 뒤 최근에서야 경찰에 허위로 실종 신고를 한 50대 고모에게 징역 3년이 구형됐다.12일 수원지법 성남지원 형사11단독 강면구 판사는 위계에 의한 공무집행방해 혐…",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "조선일보",
+  "title": "'덩어리즈' 구성환, 알고보니 183cm·78kg 4대천왕 출신 \"초콜릿·러브레터 쏟아져\"(나혼산)",
+  "url": "https://www.chosun.com/entertainments/broadcast/2026/11/12/HEYGKMLDMEZDKNZQMIYTEMRYMY/",
+  "publishedAt": "2026-11-12T01:52:00.000Z",
+  "summary": "[OSEN=하수정 기자] 배우 구성환이 믿기지 않는 학창시절 비하인드를 공개했다. 고등학교 시절 키 183cm, 몸무게 78kg으로, 학교에서 ‘4대천왕’으로 불렸다는 것.오는 13일 밤 11시 10분 방송되는 M…",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "조선일보",
+  "title": "한효주·공명, 11년 만에 재회한 첫사랑…보기만 해도 두근(‘너의 그라운드’)",
+  "url": "https://www.chosun.com/entertainments/broadcast/2026/11/12/MYYWCMZRMQ2DMM3GGRSDANBTME/",
+  "publishedAt": "2026-11-12T01:52:00.000Z",
+  "summary": "[OSEN=강서정 기자] 배우 한효주와 공명이 눈부신 비주얼 케미스트리로 올겨울 안방극장을 설렘으로 물들인다. 오는 12월 첫 방송을 앞둔 MBC 새 금토드라마 ‘너의 그라운드’(기획 권성창, 남궁성우, 연출 이상…",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "경향신문",
+  "title": "그물 끌어올리자 1t 밍크고래가?···태안 앞바다서 혼획",
+  "url": "https://www.khan.co.kr/article/202611121052001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+  "publishedAt": "2026-11-12T01:52:00.000Z",
+  "summary": "격렬비열도 인근서 암컷 1마리 혼획보령해경 “불법 포획 흔적 없어”A호에서 포획한 밍크고래. 보령해경 제공충남 태안군 근흥면 격렬비열도 인근 해상에서 조업하던 어선의 그물에 밍크고래 1마리가 걸렸다.12일 보령해양…",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "한겨레",
   "title": "영월 시멘트 공장서 쇠 파이프 떨어져…60대 작업자 사망",
   "url": "https://www.hani.co.kr/arti/area/gangwon/1286743.html",
   "publishedAt": "2026-11-11T00:56:54.238Z",
@@ -446,96 +536,6 @@
   "url": "https://www.donga.com/news/Society/article/all/20261107/134983071/2",
   "publishedAt": "2026-11-07T00:14:00.000Z",
   "summary": "최근 금융권을 중심으로 해킹 사고가 잇따르는 가운데 미래에셋증권에서도 외부 해킹으로 고객과 임직원의 개인정보가 유출되는 사고가 발생했다. 고객 약 3800명의 계좌번호와 전·현직 임직원 3만 5255명의 개인정보가…",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "한겨레",
-  "title": "이 대통령 지지율 41%…민주 36%·국힘 28% [갤럽]",
-  "url": "https://www.hani.co.kr/arti/politics/politics_general/1286076.html",
-  "publishedAt": "2026-11-06T01:14:40.649Z",
-  "summary": "",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "매일경제",
-  "title": "드디어 뚜껑 열리는 ‘신천지의 진실’…민주당, 당내갈등 봉합 분수령 될까",
-  "url": "https://www.mk.co.kr/news/politics/12200244",
-  "publishedAt": "2026-11-06T01:14:14.000Z",
-  "summary": "오늘부터 13일까지 신청자에 한해 신천지 조사 결과 개별적 열람 허용 김민석 사과에도 친청계 반발 지속 “민생에 집중” 당내 통합 목소리도더불어민주당이 신천지 집단 입당 의혹 조사..",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "경향신문",
-  "title": "이번 주말에도 서울 곳곳 마라톤…노조 대규모 집회까지 ‘교통 혼잡’",
-  "url": "https://www.khan.co.kr/article/202611061014001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-  "publishedAt": "2026-11-06T01:14:00.000Z",
-  "summary": "경찰 마크. 김창길 기자이번 주말 서울 도심 곳곳에서 마라톤과 노동조합의 대규모 집회가 열려 교통 혼잡이 예상된다.6일 서울경찰청에 따르면 토요일인 7일 여의도 일대에서 외교부 후원으로 ‘세이브 레이스 마라톤’이 …",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "SBS 뉴스",
-  "title": "풀숲 들어갔다가 \"열나고 근육통\"…야외 활동 주의보",
-  "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833630&plink=RSSLINK&cooper=RSSREADER",
-  "publishedAt": "2026-11-06T01:13:50.000Z",
-  "summary": "&#9650; 쯔쯔가무시병질병관리청은 쯔쯔가무시증을 옮기는 털진드기 활동이 증가하고 있어 가을철 야외 활동에 주의해달라고 오늘 당부했습니다.쯔쯔…",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "동아일보",
-  "title": "이서진, 하지원에 선크림 발라주고 보디가드까지…묘한 기류",
-  "url": "https://www.donga.com/news/Entertainment/article/all/20261106/134977060/1",
-  "publishedAt": "2026-11-06T01:13:45.000Z",
-  "summary": "배우 이서진이 하지원에게 직접 선크림을 발라주고 보디가드 역할까지 맡으며 다정한 면모를 드러낸다.6일 방송되는 SBS ‘무엇이든 해줄지니 - 비서진’(이하 ‘비서진’)에서는 하지원의 싱가포르 출장 두 번째 이야기가…",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "매일경제",
-  "title": "[MK시그널] 마라톤 페트롤리엄 매도신호 포착, 수익률 25.6% 달성",
-  "url": "https://www.mk.co.kr/news/stock/12200243",
-  "publishedAt": "2026-11-06T01:13:14.000Z",
-  "summary": "안녕하세요. 미국 주식 핫 이슈 종목을 분석해드리는 AI 기자 ‘MK시그널’입니다. 5일, 마라톤 페트롤리엄(MPC)이 MK시그널에서 매도 신호가 포착돼 수익률 25.61% 달성했..",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "연합뉴스",
-  "title": "[신간] 직물에 담긴 여성의 목소리…'실을 잇는 여자의 손'",
-  "url": "https://www.yna.co.kr/view/AKR20261106062000005",
-  "publishedAt": "2026-11-06T01:10:47.000Z",
-  "summary": "(서울=연합뉴스) 강종훈 기자 = ▲ 실을 잇는 여자의 손 = 니콜 네리그 지음. 이영아 옮김.",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "조선일보",
-  "title": "주말 서울 도심서 대규모 집회·마라톤 대회… 교통 혼잡 예상",
-  "url": "https://www.chosun.com/national/national_general/2026/11/06/2VAOQ3SDGBGDTO3ZKYUPDFH5II/",
-  "publishedAt": "2026-11-06T01:10:28.000Z",
-  "summary": "주말인 7일과 8일 서울 도심 곳곳에서 대규모 집회와 마라톤 대회 등 다중 운집 행사가 열려 교통 혼잡이 예상된다.",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "연합뉴스",
-  "title": "[게시판] 부산항만공사, 지속가능어워드 수상",
-  "url": "https://www.yna.co.kr/view/AKR20261106062400051",
-  "publishedAt": "2026-11-06T01:10:21.000Z",
-  "summary": "▲ 부산항만공사 영국 런던에서 최근 열린 국제항만협회(IAPH) 세계총회에서 &apos;부산항 줄잡이 작업 안전관리체계&apos;로 지속가능어워드(WPSP) 안전...",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "조선일보",
-  "title": "\"내가 하고 싶은 야구 찾았다\" 전미르의 '이도류' 2년 종료 → 롯데에선 어떨까 [인터뷰]",
-  "url": "https://www.chosun.com/sports/baseball/2026/11/06/MYYWGYLFMQYTONZWMVTDIYZZGM/",
-  "publishedAt": "2026-11-06T01:10:10.000Z",
-  "summary": "[스포츠조선 김영록 기자] \"웨이트요? 여긴 국군체육부대(상무)입니다. 웨이트장 가면 괴물들로 가득해요.\" 유니폼을 찢을듯 했던 근육, 짧게나마 신인상에 거론될 정도의 임팩트, 팔꿈치 부상 이탈, 갑작스런 입대. …",
   "summaryLang": "ko",
   "analysis": null
  }
