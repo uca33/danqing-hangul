@@ -1,6 +1,96 @@
 [
  {
   "source": "한겨레",
+  "title": "국가안보실, ‘자바’ 취약점 확인에 민·관·군 긴급대책회의",
+  "url": "https://www.hani.co.kr/arti/politics/bluehouse/1287888.html",
+  "publishedAt": "2026-11-18T02:39:24.363Z",
+  "summary": "",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "동아일보",
+  "title": "트럼프 美 시스템 장애 속출에도…“인생이란 그런 것, 괜찮다”",
+  "url": "https://www.donga.com/news/Inter/article/all/20261118/135045207/2",
+  "publishedAt": "2026-11-18T02:38:22.000Z",
+  "summary": "도널드 트럼프 미국 대통령이 최근 미국 전역에서 항공기와 금융, 정보기술(IT) 서비스 먹통 사태가 잇따르는 상황에 대해 “인생이 그런 것이다”라며 대수롭지 않다는 반응을 보였다. 17일(현지시간) 로이터통신 등 …",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "경향신문",
+  "title": "이혜훈 ‘40억 로또’ 원펜타스, 계약 취소 수순…국토부, 조합에 계약 취소 요청",
+  "url": "https://www.khan.co.kr/article/202611181138001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+  "publishedAt": "2026-11-18T02:38:00.000Z",
+  "summary": "이혜훈 전 의원. 문재원 기자국토교통부가 부정청약 혐의로 송치된 이혜훈 전 의원 측의 서울 서초구 반포동 ‘래미안 원펜타스’ 공급계약을 취소하라고 조합에 요청했다.18일 국토부에 따르면, 국토부는 지난 13일 신반…",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "연합뉴스",
+  "title": "'영어 몰입교육' 담양 미인가시설, 대안교육기관 등록 불허",
+  "url": "https://www.yna.co.kr/view/AKR20261118091000054",
+  "publishedAt": "2026-11-18T02:36:02.000Z",
+  "summary": "(전남광주=연합뉴스) 장아름 기자 = 영어 몰입교육 논란을 빚은 전남광주 담양의 한 미인가·미등록 교육시설이 교육청에 대안교육기관 등록을 시도했...",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "연합뉴스",
+  "title": "[속보] 시진핑 \"전후 국제질서 수호…평등한 세계 다극화 추진해야\"",
+  "url": "https://www.yna.co.kr/view/AKR20261118091800083",
+  "publishedAt": "2026-11-18T02:35:41.000Z",
+  "summary": "(",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "조선일보",
+  "title": "[사진]트와이스 사나, '사랑스러움 가득'",
+  "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/18/MFSWCZJWGFSDOZJSMY2TENBQGQ/",
+  "publishedAt": "2026-11-18T02:34:00.000Z",
+  "summary": "[OSEN=최규한 기자] 18일 오전 서울 명동의 한 매장에서 캐주얼 패션 브랜드의 플래그십 리뉴얼 오픈 기념 행사가 열렸다.이날 행사에는 트와이스 사나와 투모로우바이투게더 수빈이 참석했다.트와이스 사나가 포토타임…",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "조선일보",
+  "title": "[사진]트와이스 사나, '매력적인 겨울 패션'",
+  "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/18/MNSTCYZYGRSTEZLBMM3DCY3BMM/",
+  "publishedAt": "2026-11-18T02:33:00.000Z",
+  "summary": "[OSEN=최규한 기자] 18일 오전 서울 명동의 한 매장에서 캐주얼 패션 브랜드의 플래그십 리뉴얼 오픈 기념 행사가 열렸다.이날 행사에는 트와이스 사나와 투모로우바이투게더 수빈이 참석했다.트와이스 사나가 포토타임…",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "SBS 뉴스",
+  "title": "'수능 부정행위 적발' 위급재난문자 불시에 추가 발송한다",
+  "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851574&plink=RSSLINK&cooper=RSSREADER",
+  "publishedAt": "2026-11-18T02:32:36.000Z",
+  "summary": "&#9650; 수능 부정행위 적발용 재난문자 추가 '불시 발송'정부가 2027학년도 대학수학능력시험에서 휴대전화를 제출하지 않은 수험생을 적발하기 위해 '위급재난문자'를 불시에 추가 발송하기로 했습니다.교육부와 행…",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "매일경제",
+  "title": "AI 안경에 수능 분쟁 우려…10만명 ‘감독관 보험’ 도움될까",
+  "url": "https://www.mk.co.kr/news/economy/12212216",
+  "publishedAt": "2026-11-18T02:30:07.000Z",
+  "summary": "감독관 10만명 일괄 가입 하나손보가 수주해 제공 변호사·소송비용 등 보장“인공지능(AI) 안경 등 단속 과정에서 수험생과 마찰을 빚을까 봐 우려돼요.” 하루 앞으로 다가온 대학..",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "매일경제",
+  "title": "서울시, 구로·양천·강북·성북 모아주택 6319가구 짓는다",
+  "url": "https://www.mk.co.kr/news/realestate/12212180",
+  "publishedAt": "2026-11-18T02:15:00.000Z",
+  "summary": "서울시가 구로·개봉·양천·강북·성북구에서 모아주택을 통해 총 6319가구의 새 주택을 공급한다. 서울시는 지난 17일 열린 제13차 소규모주택정비 통합심의 본위원회에서 구로구 개봉..",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "한겨레",
   "title": "AI 업무활용, 넓지만 얕은 수준…업무시간 줄였지만 생산성 개선은 미미",
   "url": "https://www.hani.co.kr/arti/economy/economy_general/1287694.html",
   "publishedAt": "2026-11-17T03:17:25.448Z",
@@ -446,96 +536,6 @@
   "url": "https://www.chosun.com/sports/football/2026/11/13/ME4GMNJRMNTGGOJSGBRWKNRYMQ/",
   "publishedAt": "2026-11-13T01:25:10.000Z",
   "summary": "[스포츠조선 박찬준 기자]\"오늘 당장 할 수 있는 일에 집중하겠다.\" 로베르트 모레노 감독의 다짐이었다. 축구 대표팀은 13일 오후 11시 30분(이하 한국시각) 카타르 도하의 자심 빈 하마드 스타디움에서 국제축구…",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "한겨레",
-  "title": "김민석 “대화로 푸는 시도” 정청래 “피해자에 합의 강요, 또다른 2차 가해”",
-  "url": "https://www.hani.co.kr/arti/politics/assembly/1286951.html",
-  "publishedAt": "2026-11-12T02:03:18.717Z",
-  "summary": "",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "SBS 뉴스",
-  "title": "\"덜 거지 같은 거 골라!\"…망해가던 재래시장 살려낸 '반전 아이템' [취재파일]",
-  "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842288&plink=RSSLINK&cooper=RSSREADER",
-  "publishedAt": "2026-11-12T02:02:35.000Z",
-  "summary": "지난 5일과 6일, 이틀에 걸쳐 서울 남대문시장에 다녀왔습니다. 보통 재래시장 하면 '요즘 장사 안된다' 이런 이야기부터 떠올리실 텐데요.",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "매일경제",
-  "title": "[속보] 이 대통령 지지율 44%…민주 35%·국힘 25% [NBS]",
-  "url": "https://www.mk.co.kr/news/politics/12206177",
-  "publishedAt": "2026-11-12T02:02:30.000Z",
-  "summary": "",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "매일경제",
-  "title": "젠슨 황 이전엔 빌 게이츠·베이조스…IT 거물들의 불륜 흑역사",
-  "url": "https://www.mk.co.kr/news/world/12206176",
-  "publishedAt": "2026-11-12T02:02:18.000Z",
-  "summary": "젠슨 황 중국 스파이 의혹 여성과 불륜에 이어 사내 불륜 의혹까지 제기되며 해임 논의 급물살 게이츠도 외도 끝에 2021년 이혼하며 구설수 베이조스는 이혼으로 40조원어치 주식 ..",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "연합뉴스",
-  "title": "금리 상승에…11월 서울·경기 주택사업자 경기 전망 큰폭 하락",
-  "url": "https://www.yna.co.kr/view/AKR20261112031500003",
-  "publishedAt": "2026-11-12T02:00:02.000Z",
-  "summary": "(서울=연합뉴스) 임기창 기자 = 금리 상승에 따른 주택 구입 부담 증가와 서울 아파트값 상승세 둔화 영향으로 주택사업자들의 주택사업 경기 전망...",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "연합뉴스",
-  "title": "제1회 대한민국 조경박람회 13일 과천서 개막",
-  "url": "https://www.yna.co.kr/view/AKR20261112062100003",
-  "publishedAt": "2026-11-12T02:00:02.000Z",
-  "summary": "(세종=연합뉴스) 오진송 기자 = 제1회 대한민국 조경박람회가 오는 13∼14일 경기 과천시 시민광장과 과천시민회관에서 열린다.",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "동아일보",
-  "title": "장애 있는 6살 조카 버린 후 18년 뒤 실종 신고한 고모…징역 3년 구형",
-  "url": "https://www.donga.com/news/Society/article/all/20261112/135012598/1",
-  "publishedAt": "2026-11-12T01:59:33.000Z",
-  "summary": "18년 전 중증 지적장애가 있는 6세 조카를 유기한 뒤 최근에서야 경찰에 허위로 실종 신고를 한 50대 고모에게 징역 3년이 구형됐다.12일 수원지법 성남지원 형사11단독 강면구 판사는 위계에 의한 공무집행방해 혐…",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "조선일보",
-  "title": "'덩어리즈' 구성환, 알고보니 183cm·78kg 4대천왕 출신 \"초콜릿·러브레터 쏟아져\"(나혼산)",
-  "url": "https://www.chosun.com/entertainments/broadcast/2026/11/12/HEYGKMLDMEZDKNZQMIYTEMRYMY/",
-  "publishedAt": "2026-11-12T01:52:00.000Z",
-  "summary": "[OSEN=하수정 기자] 배우 구성환이 믿기지 않는 학창시절 비하인드를 공개했다. 고등학교 시절 키 183cm, 몸무게 78kg으로, 학교에서 ‘4대천왕’으로 불렸다는 것.오는 13일 밤 11시 10분 방송되는 M…",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "조선일보",
-  "title": "한효주·공명, 11년 만에 재회한 첫사랑…보기만 해도 두근(‘너의 그라운드’)",
-  "url": "https://www.chosun.com/entertainments/broadcast/2026/11/12/MYYWCMZRMQ2DMM3GGRSDANBTME/",
-  "publishedAt": "2026-11-12T01:52:00.000Z",
-  "summary": "[OSEN=강서정 기자] 배우 한효주와 공명이 눈부신 비주얼 케미스트리로 올겨울 안방극장을 설렘으로 물들인다. 오는 12월 첫 방송을 앞둔 MBC 새 금토드라마 ‘너의 그라운드’(기획 권성창, 남궁성우, 연출 이상…",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "경향신문",
-  "title": "그물 끌어올리자 1t 밍크고래가?···태안 앞바다서 혼획",
-  "url": "https://www.khan.co.kr/article/202611121052001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-  "publishedAt": "2026-11-12T01:52:00.000Z",
-  "summary": "격렬비열도 인근서 암컷 1마리 혼획보령해경 “불법 포획 흔적 없어”A호에서 포획한 밍크고래. 보령해경 제공충남 태안군 근흥면 격렬비열도 인근 해상에서 조업하던 어선의 그물에 밍크고래 1마리가 걸렸다.12일 보령해양…",
   "summaryLang": "ko",
   "analysis": null
  }
