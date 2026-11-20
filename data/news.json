@@ -1,6 +1,96 @@
 [
  {
   "source": "한겨레",
+  "title": "이번 주 수시논술, 식당처럼 ‘일회용 앞치마’ 두르고…대학들 새 지침",
+  "url": "https://www.hani.co.kr/arti/society/schooling/1288299.html",
+  "publishedAt": "2026-11-20T01:56:43.208Z",
+  "summary": "",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "동아일보",
+  "title": "李, 유엔 전자정부 평가 1위에 “국민 삶 더 편리하게 만들겠다”",
+  "url": "https://www.donga.com/news/Politics/article/all/20261120/135059394/2",
+  "publishedAt": "2026-11-20T01:55:22.000Z",
+  "summary": "이재명 대통령은 20일 유엔(UN) 전자정부 평가에서 한국이 세계 1위에 오른 것과 관련해 “세계 1위라는 평가만으로 충분하지 않다”며 “대한민국의 발전이 국민 한 분 한 분의 삶을 더 편리하고 풍요롭게 만드는 데…",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "경향신문",
+  "title": "머스크 “운전대 없는 7인승 모델Y”…테슬라, ‘차 파는 회사’ 접나",
+  "url": "https://www.khan.co.kr/article/202611201055001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+  "publishedAt": "2026-11-20T01:55:00.000Z",
+  "summary": "딜북 서밋서 다인승 로보택시 구상 첫 언급모델Y 생산 ‘Y L 전환’ 시사…시점은 안 밝혀중국선 생산 확대 약속…수출 기지화 뚜렷지난달 12~18일(현지시간) 프랑스 파리에서 열린 파리모터쇼2026에서 테슬라가 자…",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "연합뉴스",
+  "title": "고려 시대에도 참조기 먹었을까…답은 800년 전 난파선 비늘에",
+  "url": "https://www.yna.co.kr/view/AKR20261120067900054",
+  "publishedAt": "2026-11-20T01:54:01.000Z",
+  "summary": "(목포=연합뉴스) 조근영 기자 = 국립호남권생물자원관은 충남 마도 해역에서 발견된 고려시대 선박 &apos;마도 2호선&apos;의 항아리 안에 남아 있던 물고기...",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "연합뉴스",
+  "title": "2심 무죄 김범수 \"재판부 판단 감사…카카오 성장에 힘 보탤것\"",
+  "url": "https://www.yna.co.kr/view/AKR20261120069700017",
+  "publishedAt": "2026-11-20T01:53:43.000Z",
+  "summary": "(서울=연합뉴스) 한상용 기자 = SM엔터테인먼트 시세조종 혐의로 기소돼 항소심에서도 무죄를 선고받은 카카오[035720] 창업자 김범수 미래이...",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "SBS 뉴스",
+  "title": "미국, 이란전 비용 64조 원 돌파…정치권 '눈덩이' 공방 격화",
+  "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008855437&plink=RSSLINK&cooper=RSSREADER",
+  "publishedAt": "2026-11-20T01:53:31.000Z",
+  "summary": "&#9650; 미국 연방의회미국이 이란 전쟁에 쓴 비용이 이번 달 13일 기준으로 약 483억 달러, 우리 돈으로 64조 4천억 원에 이른다는 …",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "매일경제",
+  "title": "천안 수능시험장 스마트안경 소지자 입건…경찰, 구속영장 검토",
+  "url": "https://www.mk.co.kr/news/society/12214393",
+  "publishedAt": "2026-11-20T01:52:50.000Z",
+  "summary": "2027학년도 대학수학능력시험 시험장에 스마트안경을 반입해 부정행위를 한 수험생이 경찰에 입건됐다. 충남경찰청은 수능 시험장에서 스마트안경을 이용해 부정행위를 한 혐의(위계에 의한..",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "조선일보",
+  "title": "김민솔이 시즌 상금으로 1억 원 기부...최연소 ‘아너 소사이어티’ 가입",
+  "url": "https://www.chosun.com/sports/sports_general/2026/11/20/GAYTOYTFHEZWIMTFHBTDENJVMM/",
+  "publishedAt": "2026-11-20T01:49:00.000Z",
+  "summary": "[OSEN=강희수 기자] 두산건설 We’ve 골프단 김민솔이 시즌 상금 중에서 1억 원을 떼내 사랑의열매 사회복지공동모금회에 기부했다. 이 단체에서 선정하는 ‘아너 소사이어티’ 그룹에 최연소로 가입했다. 김민솔은 …",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "조선일보",
+  "title": "김연경 ‘필승 원더독스’, 첫 해외원정…베트남 프로 최강팀 라오까이와 맞대결(‘신인감독2’)",
+  "url": "https://www.chosun.com/entertainments/broadcast/2026/11/20/HFTDCZJYGA2WKOJTMYZTIZRSGA/",
+  "publishedAt": "2026-11-20T01:49:00.000Z",
+  "summary": "[OSEN=강서정 기자] ‘필승 원더독스’가 창단 이후 처음으로 해외 원정에 나선다. 오는 22일 오후 9시 10분 방송되는 MBC ‘신인감독 김연경2’(연출 권락희, 최윤영, 이재우, 오예나, 윤동욱, 조예은, …",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "매일경제",
+  "title": "강남·용산 주춤한데 강북·동탄 ‘불장’…수도권 집값 뚜렷한 양극화",
+  "url": "https://www.mk.co.kr/news/realestate/12214389",
+  "publishedAt": "2026-11-20T01:47:55.000Z",
+  "summary": "수도권 아파트 시장에서 지역별 온도 차가 뚜렷해지고 있다. 서울 강남3구와 용산구 등 핵심지의 집값이 일제히 하락 전환한 반면 상대적으로 가격 부담이 적은 서울 강북권과 경기 남부..",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "한겨레",
   "title": "수능 시험장서 ‘재난문자’ 적발 22명…부정행위 처리",
   "url": "https://www.hani.co.kr/arti/society/schooling/1288090.html",
   "publishedAt": "2026-11-19T02:06:44.682Z",
@@ -446,96 +536,6 @@
   "url": "https://www.donga.com/news/Inter/article/all/20261115/135024964/2",
   "publishedAt": "2026-11-15T00:06:00.000Z",
   "summary": "젠슨 황 전 엔비디아 최고경영자(CEO)가 중국 스파이로 의심받는 앨리스 황과의 관계로 인해 사임한 가운데, 그의 복귀를 요구하는 온라인 청원 사이트 ‘스탠드 위드 젠슨( STAND WITH JENSON)’ 참여자…",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "한겨레",
-  "title": "미국 전역 항공기 운항 중단…“관제센터 통신 문제, 테러 징후 없어”",
-  "url": "https://www.hani.co.kr/arti/international/international_general/1287311.html",
-  "publishedAt": "2026-11-14T01:07:17.105Z",
-  "summary": "",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "매일경제",
-  "title": "고경표, 새벽 음주운전 사고에 고개 숙였다…“깊이 반성”",
-  "url": "https://www.mk.co.kr/news/society/12208813",
-  "publishedAt": "2026-11-14T01:06:51.000Z",
-  "summary": "배우 고경표가 음주운전 사고를 낸 사실을 인정하고 사과했다. 고경표 소속사 씨엘엔컴퍼니는 14일 공식 입장을 내고 “고경표 배우는 오늘 새벽 음주 상태로 운전하던 중 청소차와 충돌..",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "매일경제",
-  "title": "“사망자 빠르게 늘고 있다”…26명 대참사, 트럭과 충돌한 버스 ‘인도 발칵’",
-  "url": "https://www.mk.co.kr/news/world/12208812",
-  "publishedAt": "2026-11-14T01:03:44.000Z",
-  "summary": "인도 북동부 고속도로에서 승객들을 태운 소형 버스와 대형 트럭이 충돌해 26명이 숨지고 20여명이 다쳤다. 14일(현지시간) 인도 매체 인디아투데이에 따르면 전날 북동부 아삼주 골..",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "SBS 뉴스",
-  "title": "엔비디아, Arm CEO 접촉설에 \"아직 누구와도 공식 연락 안해\"",
-  "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845765&plink=RSSLINK&cooper=RSSREADER",
-  "publishedAt": "2026-11-14T01:02:17.000Z",
-  "summary": "&#9650; 러네이 하스 암젠슨 황을 대신할 차기 수장을 물색 중인 엔비디아가 러네이 하스 암 CEO와 접촉했다는 보도를 부인했습니다.엔비디아…",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "연합뉴스",
-  "title": "[전국 주요 신문 톱뉴스](14일 조간)",
-  "url": "https://www.yna.co.kr/view/AKR20261114023200011",
-  "publishedAt": "2026-11-14T01:00:01.000Z",
-  "summary": "▲ 국민일보 = 깐부 잃은 AI생태계 산업계 위기감 고조",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "연합뉴스",
-  "title": "[주요 신문 사설](14일 조간)",
-  "url": "https://www.yna.co.kr/view/AKR20261114023400011",
-  "publishedAt": "2026-11-14T01:00:01.000Z",
-  "summary": "▲ 국민일보 = 젠슨 황 퇴진, AI 산업 불확실성 대비해야",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "동아일보",
-  "title": "“서울에 오피스 103만 평 더 생긴다”…낡은 빌딩, 고쳐야 할까 팔아야 할까 [머니뷰]",
-  "url": "https://www.donga.com/news/MoneyView/article/all/20261113/135008601/2",
-  "publishedAt": "2026-11-14T01:00:00.000Z",
-  "summary": "서울 도심에 오래된 오피스 빌딩을 보유한 건물주라면 앞으로 몇 년간 중요한 선택을 해야 할 수 있다. 대규모 신축 오피스가 들어서기 전에 돈을 들여 건물을 고칠 것인가, 임대료를 조정해 기존 임차인을 붙잡을 것인가…",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "조선일보",
-  "title": "최덕문, 폭탄머리 괴짜 한의사로 국보급 신스틸러..\"벌써 끝 아쉬움 가득\" 종영소감 ('닥터X')",
-  "url": "https://www.chosun.com/entertainments/broadcast/2026/11/14/HA4WGMRYGYZWGNTFMVSGMYRTMM/",
-  "publishedAt": "2026-11-14T00:57:00.000Z",
-  "summary": "[OSEN=최이정 기자] 배우 최덕문이 SBS 금토드라마 ‘닥터X : 하얀 마피아의 시대’(이하 ‘닥터X’)를 통해 국보급 신스틸러다운 압도적 존재감을 증명했다.오늘(14일) 종영을 앞둔 ‘닥터X’에서 최덕문은 폭…",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "조선일보",
-  "title": "美매체 “트럼프·시진핑·푸틴, 19일 선전서 회동”…북한 문제도 논의 가능성",
-  "url": "https://www.chosun.com/international/international_general/2026/11/14/GNSTENJRMUZGMN3DMY4DSOBTMU/",
-  "publishedAt": "2026-11-14T00:56:21.000Z",
-  "summary": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석, 블라디미르 푸틴 러시아 대통령이 오는 19일(현지시각) 중국 선전에서 3자 회담을 열 것이라고 미국 뉴욕포스트가 13일(현지시각) 보도했다. 핵군축이 주요 의제로…",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "경향신문",
-  "title": "미국 미시시피강서 유람선-화물선 충돌…원인은 아직 확인 안돼",
-  "url": "https://www.khan.co.kr/article/202611140924001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-  "publishedAt": "2026-11-14T00:24:00.000Z",
-  "summary": "다행히 사망·실종자는 없어13일(현지시간) 미국 루이지애나주 뉴올리언스 미시시피강에서 화물선 애틀랜틱 아스팔트호와 충돌해 옆으로 기울어진 유람선 아메리칸 헤리티지호. 뉴올리언스/AP 연합뉴스미국 루이지애나주 뉴올리…",
   "summaryLang": "ko",
   "analysis": null
  }
