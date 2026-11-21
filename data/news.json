@@ -1,6 +1,96 @@
 [
  {
   "source": "한겨레",
+  "title": "4년 만의 대중 무역흑자의 역설…반도체 빼면 적자 더 늘어",
+  "url": "https://www.hani.co.kr/arti/economy/economy_general/1288425.html",
+  "publishedAt": "2026-11-21T01:51:44.628Z",
+  "summary": "",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "매일경제",
+  "title": "170만명 홀린 ‘부캉이’ 이름값이 얼마길래…상표 출원 21건",
+  "url": "https://www.mk.co.kr/news/society/12215199",
+  "publishedAt": "2026-11-21T01:49:25.000Z",
+  "summary": "상어 ‘부캉이’가 부산 북항 친수공원에 나타나 전국적인 인기를 끈 가운데, 부캉이의 이름을 둘러싼 상표권 경쟁이 벌어지고 있다. 21일 특허정보검색서비스 키프리스(KIPRIS)에 ..",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "매일경제",
+  "title": "전국 ‘국평’ 평균 분양가 7억 시대…“눈 크게 뜨고 내 집 찾아볼까”",
+  "url": "https://www.mk.co.kr/news/realestate/12215198",
+  "publishedAt": "2026-11-21T01:49:04.000Z",
+  "summary": "이달 전국서 4만4000여 가구 분양 경기권 1만1275가구…대단지 주목11월 전국에서 아파트 4만4000여 가구가 분양을 앞둔 가운데 일반분양 물량만 1000가구 안팎에 이르는 ..",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "연합뉴스",
+  "title": "美-캐나다 갈등 심화…\"헤그세스 美국방, 양국 국방관계 제한 지시\"",
+  "url": "https://www.yna.co.kr/view/AKR20261121027400009",
+  "publishedAt": "2026-11-21T01:44:40.000Z",
+  "summary": "(서울=연합뉴스) 곽민서 기자 = 미국과 캐나다의 갈등이 심화하면서 전통적 우방인 양국의 국방 협력까지 영향을 받고 있다고 20일(현지시간) 미...",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "조선일보",
+  "title": "\"대한축구협회와 불공정 거래 없었다...진실 왜곡시 법적조치 등 단호한 대응\" 쿠팡플레이 입장문 발표[전문]",
+  "url": "https://www.chosun.com/sports/football/2026/11/21/MVSWCNBYME3WKNLCMI4TCNJXHA/",
+  "publishedAt": "2026-11-21T01:44:05.000Z",
+  "summary": "[스포츠조선 전영지 기자]쿠팡플레이가 대한축구협회와의 불공정 거래 행위 의혹을 일축했다. 20일 김재원 조국혁신당 의원이 기자회견을 열고 대한축구협회와 쿠팡의 불공정거래 의혹에 대한 신고와 함께 철저한 조사를 촉구…",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "경향신문",
+  "title": "“실종된 해광호에서 쓰던 부이 같다”···해경, 어선 추정 위치 300m 밖서 발견",
+  "url": "https://www.khan.co.kr/article/202611211041001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+  "publishedAt": "2026-11-21T01:41:00.000Z",
+  "summary": "선장 가족 진술 토대로 해광호 어구와 대조함정·항공기 투입···추정 위치 해저도 수색 예정발견된 해광호 사용 추정 부이. 태안해경 제공충남 태안 앞바다에서 7명이 탄 채 연락이 끊긴 어선 해광호(7.93t)의 추정…",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "조선일보",
+  "title": "박재현 선배처럼 전문대주자에 만족할 수 없다! 호령존 후계자 정조준...오키나와 마캠, 2027 히트상품 예고하나",
+  "url": "https://www.chosun.com/sports/baseball/2026/11/21/GQZGENLBMRQTGZRSGFTDONTBGA/",
+  "publishedAt": "2026-11-21T01:40:00.000Z",
+  "summary": "[OSEN=이선호 기자] 2년차 히트상품 또 예고하는가. KIA 타이거즈의 2026 오키나와 마무리캠프가 막바지를 향하고 있다. 이번 캠프의 목표 가운데 하나는 외야수의 발굴이다. 주전 중견수 김호령이 FA 자격을…",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "연합뉴스",
+  "title": "'치이카와' 300만명 돌파…'토이 스토리 5' 꺾고 애니 흥행 1위",
+  "url": "https://www.yna.co.kr/view/AKR20261121027500005",
+  "publishedAt": "2026-11-21T01:39:27.000Z",
+  "summary": "(서울=연합뉴스) 박원희 기자 = 일본 애니메이션 &apos;극장판 치이카와: 인어 섬의 비밀&apos;(이하 &apos;극장판 치이카와&apos;)이 개봉 53일 차인 21일 관...",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "SBS 뉴스",
+  "title": "\"사형 집행이 고문 같았다\"…미국서 비명 속 1시간 집행 논란",
+  "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856825&plink=RSSLINK&cooper=RSSREADER",
+  "publishedAt": "2026-11-21T01:39:25.000Z",
+  "summary": "&#9650; 텍사스 사형수 레이날도 데니미국 테네시주에서 사형수가 약물 투여 후 고통 속에 살아남아 논란이 벌어진 데 이어 텍사스에서는 1시간…",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "동아일보",
+  "title": "50세 김종국 “아이는 아내 닮아야…아들 강하게 키운다”",
+  "url": "https://www.donga.com/news/Culture/article/all/20261121/135064642/1",
+  "publishedAt": "2026-11-21T01:35:39.000Z",
+  "summary": "가수 겸 방송인 김종국이 만약 아이가 생긴다면 아내를 닮았으면 좋겠다고 했다.김종국은 20일 방송한 SBS TV 예능프로그램 ‘무엇이든 해줄지니-비서진’에 나와 결혼 생활에 관해 얘기했다.김광규는 결혼한 지 1년이…",
+  "summaryLang": "ko",
+  "analysis": null
+ },
+ {
+  "source": "한겨레",
   "title": "이번 주 수시논술, 식당처럼 ‘일회용 앞치마’ 두르고…대학들 새 지침",
   "url": "https://www.hani.co.kr/arti/society/schooling/1288299.html",
   "publishedAt": "2026-11-20T01:56:43.208Z",
@@ -446,96 +536,6 @@
   "url": "https://www.khan.co.kr/article/202611160919001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
   "publishedAt": "2026-11-16T00:19:00.000Z",
   "summary": "송혜근 시인. 민음사 제공제45회 김수영문학상에 시인 송혜근(25)이 선정됐다고 민음사가 16일 밝혔다.수상작은 ‘초희의 구체시학’ 외 55편이다.심사위원단은 수상작에 대해 “고유명사와 기호를 거침없이 쏟아 내며 …",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "한겨레",
-  "title": "“밀리면 죽는다” 여야 대결보다 더 살벌한 골육상쟁",
-  "url": "https://www.hani.co.kr/arti/politics/politics_general/1287353.html",
-  "publishedAt": "2026-11-15T00:29:44.492Z",
-  "summary": "",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "조선일보",
-  "title": "美연준 “AI 열풍에 주가 고평가”…데이터센터 등 관련 부채 발행액 3년 새 5배",
-  "url": "https://www.chosun.com/economy/int_economy/2026/11/15/UDUCMAMIIJBSHNIJNKFXOJZ63U/",
-  "publishedAt": "2026-11-15T00:28:25.000Z",
-  "summary": "미국 연방준비제도가 인공지능(AI) 열풍에 따른 주가 고평가와 데이터센터 투자에 수반된 부채 급증을 금융시장의 취약 요인으로 지목했다. 올해 1~10월 데이터센터 등 AI 연산 인프라 관련 부채 발행액은 6800억…",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "경향신문",
-  "title": "“죽고 싶다” 아파트에 불 지른 40대 구속···1명 사망·13명 부상",
-  "url": "https://www.khan.co.kr/article/202611150926001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-  "publishedAt": "2026-11-15T00:26:00.000Z",
-  "summary": "주민대피 돕다 숨진 경비원 ‘의사자’ 추진자신이 살던 아파트에 불을 질러 1명을 숨지게 하고 13명을 다치게 한 혐의로 체포된 A(씨가 14일 오후 광주지방법원에서 구속 전 피의자 심문(영장실질심사)을 받기 위해 …",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "연합뉴스",
-  "title": "한-투르크메니스탄 세관상호지원협정 발효…정보교환 협력",
-  "url": "https://www.yna.co.kr/view/AKR20261115014200504",
-  "publishedAt": "2026-11-15T00:25:56.000Z",
-  "summary": "(서울=연합뉴스) 민선희 기자 = 한국과 투르크메니스탄 간 세관상호지원협정이 15일 발효됐다고 외교부가 밝혔다.",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "연합뉴스",
-  "title": "무보, 슬로바키아 수출입은행과 원전·에너지 금융협력 강화",
-  "url": "https://www.yna.co.kr/view/AKR20261115013600003",
-  "publishedAt": "2026-11-15T00:25:24.000Z",
-  "summary": "(서울=연합뉴스) 신창용 기자 = 한국무역보험공사는 지난 13일 서울 종로구 본사에서 슬로바키아 수출입은행과 원자력 발전소를 비롯한 전력·유틸리...",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "조선일보",
-  "title": "쓰레기집 만들고 장애 있는 친자식에 농담한 남편..'해녀 아내 오열'(결혼지옥)",
-  "url": "https://www.chosun.com/entertainments/broadcast/2026/11/15/MUYTCMJTG43TGMTGMY3DAYRQMU/",
-  "publishedAt": "2026-11-15T00:23:00.000Z",
-  "summary": "[OSEN=하수정 기자] 아내가 선천적 장애를 가진 아이를 치료하기 위해 노력하는 가운데, 남편은 아이를 상태를 처음 알고 놀라운 농담을 던져 두고두고 상처로 남았다. 여기에 남편 혼자 사는 집은 쓰레기집을 방불케…",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "SBS 뉴스",
-  "title": "머스크 \"젠슨 황 없는 엔비디아, 공급망 핵심 계약 잃을 것\"",
-  "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846113&plink=RSSLINK&cooper=RSSREADER",
-  "publishedAt": "2026-11-15T00:21:13.000Z",
-  "summary": "&#9650; 일론 머스크 스페이스X CEO와 젠슨 황 전 엔비디아 CEO일론 머스크 테슬라 최고경영자 젠슨 황 전 CEO의 부재가 엔비디아의 …",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "매일경제",
-  "title": "120회 마라톤 뛴 의사의 일침 “완주 후 치맥보다 나쁜 건 따로 있다”",
-  "url": "https://www.mk.co.kr/news/society/12209087",
-  "publishedAt": "2026-11-15T00:14:53.000Z",
-  "summary": "결승선을 통과한 순간의 환희도 잠시, 러너들의 진짜 싸움은 메달을 목에 건 직후부터 시작된다. 회복의 시간을 어떻게 보내느냐에 따라 다시 트랙에 설지, 병원으로 향할지가 결정되기 ..",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "매일경제",
-  "title": "유럽 “위안화 너무 싸다”는데…중국 기업들은 “더 오르면 못 버틴다”",
-  "url": "https://www.mk.co.kr/news/world/12209086",
-  "publishedAt": "2026-11-15T00:14:32.000Z",
-  "summary": "IMF, 위안화 최대 25% 저평가 판단 유럽 “위안화 약세, 산업·일자리 위협” 中, 수출기업 수익성·고용 악화 우려 인민은행, 외화 지급준비율 인상 대응중국 위안화 가치를 둘..",
-  "summaryLang": "ko",
-  "analysis": null
- },
- {
-  "source": "동아일보",
-  "title": "“젠슨 황 복귀” 온라인 청원, 12만명 넘어…머스크도 동참",
-  "url": "https://www.donga.com/news/Inter/article/all/20261115/135024964/2",
-  "publishedAt": "2026-11-15T00:06:00.000Z",
-  "summary": "젠슨 황 전 엔비디아 최고경영자(CEO)가 중국 스파이로 의심받는 앨리스 황과의 관계로 인해 사임한 가운데, 그의 복귀를 요구하는 온라인 청원 사이트 ‘스탠드 위드 젠슨( STAND WITH JENSON)’ 참여자…",
   "summaryLang": "ko",
   "analysis": null
  }
