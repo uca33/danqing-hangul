@@ -1,5 +1,53 @@
 [
  {
+  "source": "YTN",
+  "title": "공황상태에 빠진 관객들...만2천 명 긴급대피 [자막뉴스] / YTN",
+  "videoId": "923Lh3Vo9E0",
+  "publishedAt": "2026-11-25T03:45:49.000Z"
+ },
+ {
+  "source": "YTN",
+  "title": "[영상] 험난했던 '김민석 100일', '정청래 깃발' 올라갈까 / YTN",
+  "videoId": "Somn1EmCxkg",
+  "publishedAt": "2026-11-25T03:41:48.000Z"
+ },
+ {
+  "source": "KBS 뉴스",
+  "title": "[이슈] 입으면 '근력왕'…1,500배 무게 '거뜬'/'슈퍼맨 슈트' 개발…韓 기술진 '쾌거'/2026년 11월 25일(수)/KBS",
+  "videoId": "4B1iuN6L4V4",
+  "publishedAt": "2026-11-25T03:37:42.000Z"
+ },
+ {
+  "source": "KBS 뉴스",
+  "title": "미국 “스키 장비는 대북 금수 사치품” / KBS 2026.11.25.",
+  "videoId": "NRt8ZPrHMx0",
+  "publishedAt": "2026-11-25T03:35:56.000Z"
+ },
+ {
+  "source": "MBC 뉴스",
+  "title": "[뉴스 '꾹'] \"와 진짜 큰일 난 듯 격차가..\", 'V15' 본 현대차 '블라인드' (2026.11.25/MBC뉴스)",
+  "videoId": "jn1Lp0NonG4",
+  "publishedAt": "2026-11-25T03:30:06.000Z"
+ },
+ {
+  "source": "MBC 뉴스",
+  "title": "전국 흐리고 강한 바람‥서울 낮 최고 7도 (2026.11.25/12MBC뉴스)",
+  "videoId": "uEtqX5V36f0",
+  "publishedAt": "2026-11-25T03:27:43.000Z"
+ },
+ {
+  "source": "연합뉴스TV",
+  "title": "[날씨] 아침까지 전국 영하권 추위…낮부터 추위 풀려 / 연합뉴스TV (YonhapnewsTV)",
+  "videoId": "4WuIqVgv3g4",
+  "publishedAt": "2026-11-25T03:09:12.000Z"
+ },
+ {
+  "source": "연합뉴스TV",
+  "title": "민주 \"조희대 탄핵, 5당 연대하자\"…국힘 장외로 / 연합뉴스TV (YonhapnewsTV)",
+  "videoId": "P-TvxnhvP-M",
+  "publishedAt": "2026-11-25T03:08:58.000Z"
+ },
+ {
   "source": "연합뉴스TV",
   "title": "[🔴속보] '젠슨황 복귀 효과' 코스피 3.64% 상승 출발…코스닥도 2.97%↑ / 연합뉴스TV(YonhapnewsTV)",
   "videoId": "2pP6xSxy0YU",
@@ -166,53 +214,5 @@
   "title": "[더 건강한 나] 근육이 치매 위험 가른다?…중장년부터 관리해야 / 연합뉴스TV (YonhapnewsTV)",
   "videoId": "wXTNrRZeUR8",
   "publishedAt": "2026-11-21T01:39:00.000Z"
- },
- {
-  "source": "YTN",
-  "title": "수능 논란 몰랐다는 스님 '글쎄'...변호사가 짚은 결정적 이유 [Y녹취록] / YTN",
-  "videoId": "OKNkjlI1NBY",
-  "publishedAt": "2026-11-21T01:32:50.000Z"
- },
- {
-  "source": "YTN",
-  "title": "손가락질 피하려 했나?... 수능 전후 사라졌던 교육부 장관 [자막뉴스] / YTN",
-  "videoId": "a2AdvoAZwSk",
-  "publishedAt": "2026-11-21T01:32:23.000Z"
- },
- {
-  "source": "KBS 뉴스",
-  "title": "[이런뉴스] 야생남 김민, KBS 야생 다큐에 충격 받은 이유? / KBS 2026.11.21.",
-  "videoId": "9ay32tlHOkk",
-  "publishedAt": "2026-11-21T01:03:38.000Z"
- },
- {
-  "source": "MBC 뉴스",
-  "title": "'이 수학 문제 왜 수식이 없지..' 가까스로 '작년 시험지' 보니 [뉴스.zip/MBC뉴스]",
-  "videoId": "LszYi_iNXY0",
-  "publishedAt": "2026-11-21T00:41:53.000Z"
- },
- {
-  "source": "연합뉴스TV",
-  "title": "\"가결하겠습니다\" 순간…'삐-' 재난 알람이 / 연합뉴스TV(YonhapnewsTV)",
-  "videoId": "bBm9AMLFWds",
-  "publishedAt": "2026-11-20T01:55:45.000Z"
- },
- {
-  "source": "연합뉴스TV",
-  "title": "[속보] 'SM 주가조작' 혐의 카카오 김범수 2심도 무죄 / 연합뉴스TV (YonhapnewsTV)",
-  "videoId": "HgnSTwm_5Vo",
-  "publishedAt": "2026-11-20T01:54:11.000Z"
- },
- {
-  "source": "YTN",
-  "title": "민주, '조희대 탄핵' 당론 추진...국힘 \"판결엔 불복·대법원장엔 보복\" / YTN",
-  "videoId": "9s1eqoPGTEU",
-  "publishedAt": "2026-11-20T01:53:21.000Z"
- },
- {
-  "source": "YTN",
-  "title": "\"아무것도 못하는 기구 필요 없어\"...UN 손보겠다는 미·중·러 [Y녹취록] / YTN",
-  "videoId": "YXqIhtd7k5k",
-  "publishedAt": "2026-11-20T01:52:44.000Z"
  }
 ]
